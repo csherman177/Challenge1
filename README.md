@@ -1,3 +1,2 @@
 # SEOSite
-## This is a project for an SEO Site.
-Test Test Test
+This project is an SEO Site.
